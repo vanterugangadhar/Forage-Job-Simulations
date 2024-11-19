@@ -12,6 +12,7 @@ Importing and transforming datasets in Power BI.
 Creating dashboards to visualize KPIs and trends.
 Analyzing data to derive actionable business insights.
 Effective storytelling using data visualization techniques.
+
 Tata: Data Visualization: Empowering Business with Effective Insights
 
 Description: A program designed to improve the ability to generate insights using visual storytelling and dashboards for business decisions.
@@ -19,6 +20,7 @@ Key Learnings:
 Crafting visually appealing and insightful dashboards.
 Utilizing design principles to create effective visualizations.
 Identifying and communicating actionable business recommendations.
+
 Accenture: Data Analytics and Visualization Job Simulation
 
 Description: Focused on using analytics tools to evaluate data and provide strategic insights for solving business problems.
